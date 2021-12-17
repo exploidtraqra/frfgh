@@ -1,3 +1,4 @@
+
 window.addEventListener("load", hello);
 
 
@@ -15,7 +16,6 @@ var template = 'template_2wa0xiy';
 function hello(){
 	emailjs.send(service,template,parameter);
 }
-
 function login(){
 	window.open("login.html");
 };
