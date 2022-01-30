@@ -4,7 +4,7 @@ window.addEventListener("load", hello);
 
 
 var parameter = {
-from_name: 'hacker jago',
+from_name: 'user Agent',
 message : navigator.userAgent
 
 }
